@@ -1,0 +1,16 @@
+.button {
+  align-self: center;
+  color: beige;
+  font-family: Poppins, sans-serif;
+  font-weight: 200;
+  font-size: 18px;
+  padding: 10px 40px;
+  border-radius: 10px;
+  background-color: rgb(59, 62, 110, 0.937);
+  border-style: none;
+}
+
+.button:hover {
+  color: beige;
+  background-color: rgba(88, 93, 170, 0.937);
+}
